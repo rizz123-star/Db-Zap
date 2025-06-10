@@ -13,5 +13,10 @@
     "code": "AMBA",
     "createdAt": 1749475542,
     "duration": 60
+  },
+  {
+    "code": "KONTOLEPAS",
+    "createdAt": 1749526365,
+    "duration": 36000
   }
 ]
